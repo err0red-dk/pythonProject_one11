@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a5302e-a055-471b-9fda-78c919077025" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bot_one.py" afterDir="false" />
+    <list default="true" id="21a5302e-a055-471b-9fda-78c919077025" name="Changes" comment="update0.01">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,24 +15,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "err0red-dk",
-      "reviewState": "NO_REVIEW",
-      "author": "err0red-dk",
-      "label": "bug"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;err0red-dk&quot;,
+      &quot;reviewState&quot;: &quot;NO_REVIEW&quot;,
+      &quot;author&quot;: &quot;err0red-dk&quot;,
+      &quot;label&quot;: &quot;bug&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "err0red-dk",
-    "reviewState": "NO_REVIEW",
-    "author": "err0red-dk",
-    "label": "bug"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;err0red-dk&quot;,
+    &quot;reviewState&quot;: &quot;NO_REVIEW&quot;,
+    &quot;author&quot;: &quot;err0red-dk&quot;,
+    &quot;label&quot;: &quot;bug&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/err0red-dk/pythonProject_one11.git&quot;,
@@ -91,7 +91,17 @@
       <workItem from="1725644369652" duration="569000" />
       <workItem from="1725731021464" duration="1684000" />
       <workItem from="1725732728153" duration="133000" />
+      <workItem from="1725984460433" duration="296000" />
     </task>
+    <task id="LOCAL-00001" summary="update0.01">
+      <option name="closed" value="true" />
+      <created>1725984597896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725984597896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,16 +118,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/bot_one.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update0.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="update0.01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject_one$bot_one.coverage" NAME="bot_one Coverage Results" MODIFIED="1725644461919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
